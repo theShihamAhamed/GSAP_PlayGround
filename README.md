@@ -136,7 +136,7 @@ npm -v
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/GSAP_PlayGround.git
+git clone https://github.com/theShihamAhamed/GSAP_PlayGround.git
 cd GSAP_PlayGround
 ```
 
